@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-06-27
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Attended the 6th Baltic Economics Association Conference, Tallinn and presented "Has the Phillips Curve Flattened?: A Machine Learning Approach".
