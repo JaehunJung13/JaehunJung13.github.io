@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /research/
-title: research
+permalink: /Research/
+title: Research
 nav: true
 nav_order: 3
 description:
@@ -18,3 +18,18 @@ description:
 ---
 
 - ###### Machine Learning Goes Beyond: Monetary Policy and Oil Price Pass-Through to Inflation Expectations (with Dooyeon Cho)
+
+
+### Experiences
+
+- ###### “Quantifying the Effect of Facial Expressions of the Governors in BOK Press Conferences: A Deep Learning Approach”
+**Principal Investigator: Prof. Dooyeon Cho, Sungkyunkwan University** <br>
+*June 2024 – Present*
+
+- ###### “Debt Burdens and Fiscal Policy: Does Perceived Government Effectiveness Matter?”
+**Principal Investigator: Prof. Dooyeon Cho, Sungkyunkwan University** <br>
+*June 2023 - May 2024*
+
+- ###### “Effects of Verbal and Nonverbal Policy Communications on the Financial Market: A Deep Learning Analysis”
+**Principal Investigator: Prof. Dooyeon Cho, Sungkyunkwan University** <br>
+*April 2023 - August 2023*
