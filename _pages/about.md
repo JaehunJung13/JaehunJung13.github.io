@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: ponpondo@g.skku.edu, +82 10-9396-1830
+subtitle: 
 
 profile:
   align: right
