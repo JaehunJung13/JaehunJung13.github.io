@@ -4,7 +4,7 @@
     "label": "M.A. in Economics (Expected in August 2025)",
     "image": "",
     "email": "ponpondo@g.skku.edu",
-    "phone": "+82 10-9396-1830",
+    "phone": [],
     "url": "https://jaehunjung13.github.io/",
     "summary": "Master's Student in Economics at Sungkyunkwan University.",
     "location": {
@@ -103,8 +103,9 @@
   ],
   "references": [
     {
-      "name": "Professor Dooyeon Cho",
+      "name": "Prof. Dooyeon Cho",
       "icon": "fa-solid fa-laptop",
+      "url": "https://dooyeoncho.github.io/",
       "reference": []
     }
   ]

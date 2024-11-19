@@ -22,13 +22,13 @@ description:
 ### Experiences
 
 - ###### “Quantifying the Effect of Facial Expressions of the Governors in BOK Press Conferences: A Deep Learning Approach”
-**Principal Investigator: Prof. Dooyeon Cho, Sungkyunkwan University** <br>
+Principal Investigator: Prof. Dooyeon Cho, Sungkyunkwan University <br>
 *Research Assistant, June 2024 – Present*
 
 - ###### “Debt Burdens and Fiscal Policy: Does Perceived Government Effectiveness Matter?”
-**Principal Investigator: Prof. Dooyeon Cho, Sungkyunkwan University** <br>
+Principal Investigator: Prof. Dooyeon Cho, Sungkyunkwan University <br>
 *Research Assistant, June 2023 - May 2024*
 
 - ###### “Effects of Verbal and Nonverbal Policy Communications on the Financial Market: A Deep Learning Analysis”
-**Principal Investigator: Prof. Dooyeon Cho, Sungkyunkwan University** <br>
+Principal Investigator: Prof. Dooyeon Cho, Sungkyunkwan University <br>
 *Research Assistant, April 2023 - August 2023*

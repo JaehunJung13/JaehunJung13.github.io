@@ -16,12 +16,26 @@
             {% for item in content.items %}
               {% assign i = i | plus: 1 %}
             {% endfor %}
-            <td colspan="{{ i }}" class="list-group-category">{{ content.name }}</td>
+            <td colspan="{{ i }}" class="list-group-category">
+              {% if content.url %}
+                <a href="{{ content.url }}" target="_blank" style="color: inherit; text-decoration: none;">
+                  {{ content.name }}
+                </a>
+              {% else %}
+                {{ content.name }}
+              {% endif %}
+            </td>
           </tr>
           <tr>
             <td></td>
             <td class="list-group-name">
-              <b>{{ content.reference }}</b>
+              {% if content.reference.size > 0 %}
+                <b>
+                  {% for ref in content.reference %}
+                    {{ ref }}<br>
+                  {% endfor %}
+                </b>
+              {% endif %}
             </td>
           </tr>
         </tbody>
