@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: me_pic.jpg
+  image: me_pic2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Department of Economics</p>
