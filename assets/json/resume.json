@@ -79,13 +79,13 @@
   ],
   "languages": [
     {
-      "language": "Korean",
-      "fluency": "Native speaker",
+      "language": "English",
+      "fluency": "Fluent",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "Korean",
+      "fluency": "Native speaker",
       "icon": ""
     }
   ],
@@ -94,7 +94,7 @@
       "name": "Economics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Macro Economics",
+        "Macroeconomics",
         "International Finance",
         "Monetary Policy",
         "Machine Learning Applications"
