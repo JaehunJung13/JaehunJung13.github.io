@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 #### Hello! 
-I'm Jaehun Jung, a master's student in Economics at Sungkyunkwan University, Seoul, Republic of Korea. I previously earned my bachelor's degree in Economics from the same institution.
+I'm Jaehun Jung, a master's student in Economics at Sungkyunkwan University (SKKU), Seoul, Republic of Korea. I previously earned my bachelor's degree in Economics from the same institution.
 
 
 #### Research Interests
