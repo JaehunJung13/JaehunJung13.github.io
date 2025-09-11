@@ -7,15 +7,21 @@ nav_order: 3
 description:
 ---
 
+### Publication
+
+- ###### Machine learning goes beyond: Time-varying monetary policy and oil price pass-through to inflation expectations (with Dooyeon Cho), Journal of Macroeconomics 85, 103702, 2025
+
 ### Working Papers
 
 - ###### Has the Phillips Curve Flattened?: A Machine Learning Approach (with Dooyeon Cho)
 
 
-- ###### Mind the Tone: Responses of Inflation Expectations to Central Bankers' Speeches (with Dooyeon Cho)
+- ###### Mind the Tone: Responses of Inflation Expectations to Central Bankers’ Speeches (with Dooyeon Cho), Revise & Resubmit
 
+- ###### Narratives in Motion: Perception-Driven Geopolitical Risk in Korea (with Dooyeon Cho)
 
-- ###### Machine Learning Goes Beyond: Monetary Policy and Oil Price Pass-Through to Inflation Expectations (with Dooyeon Cho)
+- ###### Beyond What Is Said: Quantifying the Effect of Nonverbal Communication in BOK Press Conferences (with Dooyeon Cho)
+
 
 ---
 
@@ -23,12 +29,12 @@ description:
 
 - ###### “Quantifying the Effect of Facial Expressions of the Governors in BOK Press Conferences: A Deep Learning Approach”
 Principal Investigator: Prof. Dooyeon Cho, Sungkyunkwan University <br>
-*Research Assistant, June 2024 – Present*
+*Research Assistant, June 2024 – May 2025*
 
 - ###### “Debt Burdens and Fiscal Policy: Does Perceived Government Effectiveness Matter?”
 Principal Investigator: Prof. Dooyeon Cho, Sungkyunkwan University <br>
-*Research Assistant, June 2023 - May 2024*
+*Research Assistant, June 2023 – May 2024*
 
 - ###### “Effects of Verbal and Nonverbal Policy Communications on the Financial Market: A Deep Learning Analysis”
 Principal Investigator: Prof. Dooyeon Cho, Sungkyunkwan University <br>
-*Research Assistant, April 2023 - August 2023*
+*Research Assistant, April 2023 – August 2023*

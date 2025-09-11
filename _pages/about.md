@@ -10,9 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Department of Economics</p>
-    <p>Sungkyunkwan University</p>
-    <p>25-2 Sungkyunkwan-gil, Jongno-gu</p>
-    <p>Seoul 03063, Republic of Korea</p>
+    <p>University of California, Irvine</p>
+    <p>Irvine, CA 92617</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -20,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 #### Hello! 
-I'm Jaehun Jung, a master's student in Economics at Sungkyunkwan University (SKKU), Seoul, Republic of Korea. I previously earned my bachelor's degree in Economics from the same institution.
+I'm Jaehun Jung, a PhD student in Economics at University of California, Irvine. I previously earned my bachelor's and master's degree in Economics from Sungkyunkwan University in Republic of Korea.
 
 
 #### Research Interests
