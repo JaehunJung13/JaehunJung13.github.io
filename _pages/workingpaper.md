@@ -7,16 +7,15 @@ nav_order: 3
 description:
 ---
 
-### Publication
+### Publications
+
+- ###### Mind the Tone: Responses of Inflation Expectations to Central Bankers’ Speeches (with Dooyeon Cho), Journal of International Money and Finance, forthcoming.
 
 - ###### Machine learning goes beyond: Time-varying monetary policy and oil price pass-through to inflation expectations (with Dooyeon Cho), Journal of Macroeconomics 85, 103702, 2025
 
 ### Working Papers
 
-- ###### Has the Phillips Curve Flattened?: A Machine Learning Approach (with Dooyeon Cho)
-
-
-- ###### Mind the Tone: Responses of Inflation Expectations to Central Bankers’ Speeches (with Dooyeon Cho), Revise & Resubmit
+- ###### The Flattening Phillips Curve and the Anchoring of Inflation Expectations: A Machine Learning Perspective (with Dooyeon Cho), Revise & Resubmit
 
 - ###### Narratives in Motion: Perception-Driven Geopolitical Risk in Korea (with Dooyeon Cho)
 
