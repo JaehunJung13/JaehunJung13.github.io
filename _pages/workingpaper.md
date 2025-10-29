@@ -9,9 +9,9 @@ description:
 
 ### Publications
 
-- ###### Mind the Tone: Responses of Inflation Expectations to Central Bankers’ Speeches (with Dooyeon Cho), Journal of International Money and Finance, forthcoming.
+- ###### Mind the Tone: Responses of Inflation Expectations to Central Bankers’ Speeches (with Dooyeon Cho), ***Journal of International Money and Finance***, forthcoming.
 
-- ###### Machine learning goes beyond: Time-varying monetary policy and oil price pass-through to inflation expectations (with Dooyeon Cho), Journal of Macroeconomics 85, 103702, 2025
+- ###### Machine learning goes beyond: Time-varying monetary policy and oil price pass-through to inflation expectations (with Dooyeon Cho), ***Journal of Macroeconomics*** 85, 103702, 2025
 
 ### Working Papers
 
