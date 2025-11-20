@@ -15,11 +15,11 @@ description:
 
 ### Working Papers
 
-- ###### The Flattening Phillips Curve and the Anchoring of Inflation Expectations: A Machine Learning Perspective (with Dooyeon Cho), Revise & Resubmit
+- ###### The Phillips Curve and Inflation Expectations: A Machine Learning Perspective (with Dooyeon Cho), ***Revise & Resubmit***
 
 - ###### Narratives in Motion: Perception-Driven Geopolitical Risk in Korea (with Dooyeon Cho)
 
-- ###### Beyond What Is Said: Quantifying the Effect of Nonverbal Communication in BOK Press Conferences (with Dooyeon Cho)
+- ###### Beyond Words: Nonverbal Communication and Financial Market Responses (with Dooyeon Cho)
 
 
 ---
