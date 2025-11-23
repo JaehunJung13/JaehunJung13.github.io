@@ -15,7 +15,7 @@ description:
 
 ### Working Papers
 
-- ###### The Phillips Curve and Inflation Expectations: A Machine Learning Perspective (with Dooyeon Cho), ***Revise & Resubmit***
+- ###### The Phillips Curve and Inflation Expectations: A Machine Learning Perspective (with Dooyeon Cho), ***Studies in Nonlinear Dynamics and Econometrics*** Revise & Resubmit
 
 - ###### Narratives in Motion: Perception-Driven Geopolitical Risk in Korea (with Dooyeon Cho)
 
