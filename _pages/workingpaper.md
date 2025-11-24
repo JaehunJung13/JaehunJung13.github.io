@@ -11,15 +11,15 @@ description:
 
 - ###### Mind the Tone: Responses of Inflation Expectations to Central Bankers’ Speeches (with Dooyeon Cho), ***Journal of International Money and Finance***, forthcoming.
 
-- ###### Machine learning goes beyond: Time-varying monetary policy and oil price pass-through to inflation expectations (with Dooyeon Cho), ***Journal of Macroeconomics*** 85, 103702, 2025
+- ###### Machine learning goes beyond: Time-varying monetary policy and oil price pass-through to inflation expectations (with Dooyeon Cho), ***Journal of Macroeconomics*** 85, 103702, 2025.
 
 ### Working Papers
 
-- ###### The Phillips Curve and Inflation Expectations: A Machine Learning Perspective (with Dooyeon Cho), ***Studies in Nonlinear Dynamics and Econometrics*** Revise & Resubmit
+- ###### The Phillips Curve and Inflation Expectations: A Machine Learning Perspective (with Dooyeon Cho), ***Studies in Nonlinear Dynamics and Econometrics***, Revise & Resubmit.
 
-- ###### Narratives in Motion: Perception-Driven Geopolitical Risk in Korea (with Dooyeon Cho)
+- ###### Narratives in Motion: Perception-Driven Geopolitical Risk in Korea (with Dooyeon Cho), Under Review.
 
-- ###### Beyond Words: Nonverbal Communication and Financial Market Responses (with Dooyeon Cho)
+- ###### Beyond Words: Nonverbal Communication and Financial Market Responses (with Dooyeon Cho), Under Reivew.
 
 
 ---
