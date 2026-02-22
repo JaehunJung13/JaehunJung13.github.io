@@ -9,7 +9,7 @@ description:
 
 ### Publications
 
-- ###### The Phillips Curve and Inflation Expectations: A Machine Learning Perspective (with Dooyeon Cho), ***Studies in Nonlinear Dynamics & Econometrics***, Conditionally Accepted.
+- ###### The Phillips Curve and Inflation Expectations: A Machine Learning Perspective (with Dooyeon Cho), ***Studies in Nonlinear Dynamics & Econometrics***, Forthcoming.
 
 - ###### Mind the Tone: Responses of Inflation Expectations to Central Bankers’ Speeches (with Dooyeon Cho), ***Journal of International Money and Finance***, 160, 103452, 2026.
 
@@ -17,7 +17,7 @@ description:
 
 ### Working Papers
 
-- ###### Narratives in Motion: Perception-Driven Geopolitical Risk in Korea (with Dooyeon Cho), Under Review.
+- ###### Narratives in Motion: Perception-Driven Geopolitical Risk in Korea (with Dooyeon Cho), Revise & Resubmit.
 
 - ###### Beyond Words: Nonverbal Communication and Financial Market Responses (with Dooyeon Cho), Under Reivew.
 
